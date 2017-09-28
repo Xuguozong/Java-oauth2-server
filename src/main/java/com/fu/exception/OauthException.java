@@ -1,4 +1,4 @@
-package com.fu.exceptions;
+package com.fu.exception;
 
 /**
  * 

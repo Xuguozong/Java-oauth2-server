@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import com.fu.entity.AccessToken;
 import com.fu.entity.AuthInfo;
 import com.fu.entity.Credential;
-import com.fu.exceptions.OauthException;
+import com.fu.exception.OauthException;
 import com.fu.response.ErrorResponse;
 import com.fu.response.GetTokenResponse;
 import com.fu.response.OauthResponse;
